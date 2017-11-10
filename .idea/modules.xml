@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyRoundProgress.iml" filepath="$PROJECT_DIR$/MyRoundProgress.iml" />
+      <module fileurl="file://G:\MyRoundProgress\MyRoundProgress.iml" filepath="G:\MyRoundProgress\MyRoundProgress.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://G:\MyRoundProgress\app\app.iml" filepath="G:\MyRoundProgress\app\app.iml" />
     </modules>
   </component>
 </project>
