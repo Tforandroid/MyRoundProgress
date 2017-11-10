@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundProgressImage">
+        <attr name="ringColor" format="color" />
+        <attr name="ringProgressColor" format="color" />
+        <attr name="textColor" format="color" />
+        <attr name="startColor" format="color" />
+        <attr name="endColor" format="color" />
+        <attr name="ringWidth" format="dimension" />
+        <attr name="textSize" format="dimension" />
+        <attr name="maxProgress" format="integer" />
+        <attr name="maxAngle" format="integer" />
+        <attr name="currentProgress" format="integer" />
+        <attr name="startAngle" format="integer" />
+        <attr name="isGradient" format="boolean" />
+    </declare-styleable>
+</resources>

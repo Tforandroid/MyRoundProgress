@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="grey_dde1e7">#DDE1E7</color>
+    <color name="title_back">#2F83C7</color>
+    <color name="home_back_unselected">#878787</color>
+    <color name="home_back_selected">#ff6800</color>
+    <color name="orange">#ff5f00</color>
+    <color name="light_orange">#ffdfcc</color>
+    <color name="tab_background">#ff5f00</color>
+    <color name="title_background">#ff5f00</color>
+    <color name="login_color1">#333333</color>
+    <color name="scan_corner_color">#0effc2</color>
+    <color name="product_detail_common">#666666</color>
+    <color name="gay">#DADADA</color>
+    <color name="huise">#DADADA</color>
+
+    <color name="text_progress">#18b4ed</color>
+
+    <color name="title_text">#26B8EE</color>
+
+    <color name="divider_line">#e1e1e1</color>
+
+    <color name="product_red_common">#e84768</color>
+
+    <color name="my_title_bg">#28baed</color>
+    <color name="vertical_text">#ff5f00</color>
+    <color name="red_package">#ea3535</color>
+
+    <color name="white">#ffffff</color>
+    <color name="transparent">#0000</color>
+    <color name="lable_blue">#3DB0FD</color>
+    <color name="tab_no_select">#333333</color>
+    <color name="tab_selected">#ff5f00</color>
+
+    <color name="background">#FFFFFF</color>
+    <color name="split_line">#11112233</color>
+    <color name="text1">#59B29C</color>
+    <color name="text2">#333333</color>
+    <color name="color1">#F0F0F0</color>
+    <color name="color2">#FFFFFF</color>
+    <color name="color3">#B0B0B0</color>
+    <color name="color4">#666666</color>
+    <color name="color5">#57C5E8</color>
+</resources>
