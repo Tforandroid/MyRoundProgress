@@ -1,2 +1,2 @@
 # MyRoundProgress
-![image](https://github.com/Tforandroid/MyRoundProgress/app/src/main/res/mipmap-mdpi/ic_launcher.png)
+![image](https://github.com/Tforandroid/MyRoundProgress/ic_launcher.png)
